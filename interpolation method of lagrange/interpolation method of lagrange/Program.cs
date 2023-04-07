@@ -38,12 +38,13 @@ class GFG
 public static void Main(String[] args)
 {
 
-    Data[] f = {new Data(1, 1.0),
-                new Data(2, 1.4142),
-                new Data(3, 1.7321),
-                new Data(4,2.0)};
+    Data[] f = {new Data(1,1.6),
+                new Data(2, 2.7),
+                new Data(3, 3.8),
+                new Data(4,4.9),
+                new Data(5,5.1)};
 
-    Console.Write("Value of f(3) is : " + Math.Round(((double)interpolate(f, 2.56, 3)),4));
+    Console.Write("Value of f(3) is : " + Math.Round(((double)interpolate(f, 4.6, 5)),4));
 
     }
 }
