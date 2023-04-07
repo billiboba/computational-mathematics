@@ -1,0 +1,15 @@
+C:\Users\roma\source\repos\method of eitkin\method of eitkin\obj\Debug\net6.0\method of eitkin.csproj.AssemblyReference.cache
+C:\Users\roma\source\repos\method of eitkin\method of eitkin\obj\Debug\net6.0\method of eitkin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\roma\source\repos\method of eitkin\method of eitkin\obj\Debug\net6.0\method of eitkin.AssemblyInfoInputs.cache
+C:\Users\roma\source\repos\method of eitkin\method of eitkin\obj\Debug\net6.0\method of eitkin.AssemblyInfo.cs
+C:\Users\roma\source\repos\method of eitkin\method of eitkin\obj\Debug\net6.0\method of eitkin.csproj.CoreCompileInputs.cache
+C:\Users\roma\source\repos\method of eitkin\method of eitkin\bin\Debug\net6.0\method of eitkin.exe
+C:\Users\roma\source\repos\method of eitkin\method of eitkin\bin\Debug\net6.0\method of eitkin.deps.json
+C:\Users\roma\source\repos\method of eitkin\method of eitkin\bin\Debug\net6.0\method of eitkin.runtimeconfig.json
+C:\Users\roma\source\repos\method of eitkin\method of eitkin\bin\Debug\net6.0\method of eitkin.dll
+C:\Users\roma\source\repos\method of eitkin\method of eitkin\bin\Debug\net6.0\method of eitkin.pdb
+C:\Users\roma\source\repos\method of eitkin\method of eitkin\obj\Debug\net6.0\method of eitkin.dll
+C:\Users\roma\source\repos\method of eitkin\method of eitkin\obj\Debug\net6.0\refint\method of eitkin.dll
+C:\Users\roma\source\repos\method of eitkin\method of eitkin\obj\Debug\net6.0\method of eitkin.pdb
+C:\Users\roma\source\repos\method of eitkin\method of eitkin\obj\Debug\net6.0\method of eitkin.genruntimeconfig.cache
+C:\Users\roma\source\repos\method of eitkin\method of eitkin\obj\Debug\net6.0\ref\method of eitkin.dll

@@ -1,0 +1,15 @@
+C:\Users\roma\source\repos\interpolation method of lagrange\interpolation method of lagrange\bin\Debug\net6.0\interpolation method of lagrange.exe
+C:\Users\roma\source\repos\interpolation method of lagrange\interpolation method of lagrange\bin\Debug\net6.0\interpolation method of lagrange.deps.json
+C:\Users\roma\source\repos\interpolation method of lagrange\interpolation method of lagrange\bin\Debug\net6.0\interpolation method of lagrange.runtimeconfig.json
+C:\Users\roma\source\repos\interpolation method of lagrange\interpolation method of lagrange\bin\Debug\net6.0\interpolation method of lagrange.dll
+C:\Users\roma\source\repos\interpolation method of lagrange\interpolation method of lagrange\bin\Debug\net6.0\interpolation method of lagrange.pdb
+C:\Users\roma\source\repos\interpolation method of lagrange\interpolation method of lagrange\obj\Debug\net6.0\interpolation method of lagrange.csproj.AssemblyReference.cache
+C:\Users\roma\source\repos\interpolation method of lagrange\interpolation method of lagrange\obj\Debug\net6.0\interpolation method of lagrange.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\roma\source\repos\interpolation method of lagrange\interpolation method of lagrange\obj\Debug\net6.0\interpolation method of lagrange.AssemblyInfoInputs.cache
+C:\Users\roma\source\repos\interpolation method of lagrange\interpolation method of lagrange\obj\Debug\net6.0\interpolation method of lagrange.AssemblyInfo.cs
+C:\Users\roma\source\repos\interpolation method of lagrange\interpolation method of lagrange\obj\Debug\net6.0\interpolation method of lagrange.csproj.CoreCompileInputs.cache
+C:\Users\roma\source\repos\interpolation method of lagrange\interpolation method of lagrange\obj\Debug\net6.0\interpolation method of lagrange.dll
+C:\Users\roma\source\repos\interpolation method of lagrange\interpolation method of lagrange\obj\Debug\net6.0\refint\interpolation method of lagrange.dll
+C:\Users\roma\source\repos\interpolation method of lagrange\interpolation method of lagrange\obj\Debug\net6.0\interpolation method of lagrange.pdb
+C:\Users\roma\source\repos\interpolation method of lagrange\interpolation method of lagrange\obj\Debug\net6.0\interpolation method of lagrange.genruntimeconfig.cache
+C:\Users\roma\source\repos\interpolation method of lagrange\interpolation method of lagrange\obj\Debug\net6.0\ref\interpolation method of lagrange.dll

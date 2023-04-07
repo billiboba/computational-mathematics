@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "interpolation method of lagrange/1.0.0": {
+        "runtime": {
+          "interpolation method of lagrange.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "interpolation method of lagrange/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
