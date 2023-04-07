@@ -1,0 +1,15 @@
+C:\Users\roma\source\repos\Method_of_Newton\Method_of_Newton\obj\Debug\net6.0\Method_of_Newton.csproj.AssemblyReference.cache
+C:\Users\roma\source\repos\Method_of_Newton\Method_of_Newton\obj\Debug\net6.0\Method_of_Newton.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\roma\source\repos\Method_of_Newton\Method_of_Newton\obj\Debug\net6.0\Method_of_Newton.AssemblyInfoInputs.cache
+C:\Users\roma\source\repos\Method_of_Newton\Method_of_Newton\obj\Debug\net6.0\Method_of_Newton.AssemblyInfo.cs
+C:\Users\roma\source\repos\Method_of_Newton\Method_of_Newton\obj\Debug\net6.0\Method_of_Newton.csproj.CoreCompileInputs.cache
+C:\Users\roma\source\repos\Method_of_Newton\Method_of_Newton\bin\Debug\net6.0\Method_of_Newton.exe
+C:\Users\roma\source\repos\Method_of_Newton\Method_of_Newton\bin\Debug\net6.0\Method_of_Newton.deps.json
+C:\Users\roma\source\repos\Method_of_Newton\Method_of_Newton\bin\Debug\net6.0\Method_of_Newton.runtimeconfig.json
+C:\Users\roma\source\repos\Method_of_Newton\Method_of_Newton\bin\Debug\net6.0\Method_of_Newton.dll
+C:\Users\roma\source\repos\Method_of_Newton\Method_of_Newton\bin\Debug\net6.0\Method_of_Newton.pdb
+C:\Users\roma\source\repos\Method_of_Newton\Method_of_Newton\obj\Debug\net6.0\Method_of_Newton.dll
+C:\Users\roma\source\repos\Method_of_Newton\Method_of_Newton\obj\Debug\net6.0\refint\Method_of_Newton.dll
+C:\Users\roma\source\repos\Method_of_Newton\Method_of_Newton\obj\Debug\net6.0\Method_of_Newton.pdb
+C:\Users\roma\source\repos\Method_of_Newton\Method_of_Newton\obj\Debug\net6.0\Method_of_Newton.genruntimeconfig.cache
+C:\Users\roma\source\repos\Method_of_Newton\Method_of_Newton\obj\Debug\net6.0\ref\Method_of_Newton.dll
