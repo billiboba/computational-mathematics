@@ -9,7 +9,7 @@ class integration
         return Math.Pow(x, 4) / (0.5 * Math.Pow(x, 2) + x + 6);
     }
 
-    static double Method_of_Runge(double a, double b, double n)
+    static double Method_of_Rect(double a, double b, double n)
     {
         double sum = 0.0;
         double h = (b - a) / n;
@@ -26,7 +26,7 @@ class integration
         double a = 0.4;
         double b = 1.5;
         int n = 10;
-        Console.WriteLine(Method_of_Runge(a,b,n));
+        Console.WriteLine(Method_of_Rect(a,b,n));
         
     }
 }
