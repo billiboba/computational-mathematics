@@ -1,0 +1,15 @@
+C:\Users\info\source\repos\Method Newton 2 formuls\Method Newton 2 formuls\bin\Debug\net6.0\Method Newton 2 formuls.exe
+C:\Users\info\source\repos\Method Newton 2 formuls\Method Newton 2 formuls\bin\Debug\net6.0\Method Newton 2 formuls.deps.json
+C:\Users\info\source\repos\Method Newton 2 formuls\Method Newton 2 formuls\bin\Debug\net6.0\Method Newton 2 formuls.runtimeconfig.json
+C:\Users\info\source\repos\Method Newton 2 formuls\Method Newton 2 formuls\bin\Debug\net6.0\Method Newton 2 formuls.dll
+C:\Users\info\source\repos\Method Newton 2 formuls\Method Newton 2 formuls\bin\Debug\net6.0\Method Newton 2 formuls.pdb
+C:\Users\info\source\repos\Method Newton 2 formuls\Method Newton 2 formuls\obj\Debug\net6.0\Method Newton 2 formuls.csproj.AssemblyReference.cache
+C:\Users\info\source\repos\Method Newton 2 formuls\Method Newton 2 formuls\obj\Debug\net6.0\Method Newton 2 formuls.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\info\source\repos\Method Newton 2 formuls\Method Newton 2 formuls\obj\Debug\net6.0\Method Newton 2 formuls.AssemblyInfoInputs.cache
+C:\Users\info\source\repos\Method Newton 2 formuls\Method Newton 2 formuls\obj\Debug\net6.0\Method Newton 2 formuls.AssemblyInfo.cs
+C:\Users\info\source\repos\Method Newton 2 formuls\Method Newton 2 formuls\obj\Debug\net6.0\Method Newton 2 formuls.csproj.CoreCompileInputs.cache
+C:\Users\info\source\repos\Method Newton 2 formuls\Method Newton 2 formuls\obj\Debug\net6.0\Method Newton 2 formuls.dll
+C:\Users\info\source\repos\Method Newton 2 formuls\Method Newton 2 formuls\obj\Debug\net6.0\refint\Method Newton 2 formuls.dll
+C:\Users\info\source\repos\Method Newton 2 formuls\Method Newton 2 formuls\obj\Debug\net6.0\Method Newton 2 formuls.pdb
+C:\Users\info\source\repos\Method Newton 2 formuls\Method Newton 2 formuls\obj\Debug\net6.0\Method Newton 2 formuls.genruntimeconfig.cache
+C:\Users\info\source\repos\Method Newton 2 formuls\Method Newton 2 formuls\obj\Debug\net6.0\ref\Method Newton 2 formuls.dll

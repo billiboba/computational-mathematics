@@ -1,0 +1,15 @@
+C:\Users\info\source\repos\interpolation newton 1\interpolation newton 1\bin\Debug\net6.0\interpolation newton 1.exe
+C:\Users\info\source\repos\interpolation newton 1\interpolation newton 1\bin\Debug\net6.0\interpolation newton 1.deps.json
+C:\Users\info\source\repos\interpolation newton 1\interpolation newton 1\bin\Debug\net6.0\interpolation newton 1.runtimeconfig.json
+C:\Users\info\source\repos\interpolation newton 1\interpolation newton 1\bin\Debug\net6.0\interpolation newton 1.dll
+C:\Users\info\source\repos\interpolation newton 1\interpolation newton 1\bin\Debug\net6.0\interpolation newton 1.pdb
+C:\Users\info\source\repos\interpolation newton 1\interpolation newton 1\obj\Debug\net6.0\interpolation newton 1.csproj.AssemblyReference.cache
+C:\Users\info\source\repos\interpolation newton 1\interpolation newton 1\obj\Debug\net6.0\interpolation newton 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\info\source\repos\interpolation newton 1\interpolation newton 1\obj\Debug\net6.0\interpolation newton 1.AssemblyInfoInputs.cache
+C:\Users\info\source\repos\interpolation newton 1\interpolation newton 1\obj\Debug\net6.0\interpolation newton 1.AssemblyInfo.cs
+C:\Users\info\source\repos\interpolation newton 1\interpolation newton 1\obj\Debug\net6.0\interpolation newton 1.csproj.CoreCompileInputs.cache
+C:\Users\info\source\repos\interpolation newton 1\interpolation newton 1\obj\Debug\net6.0\interpolation newton 1.dll
+C:\Users\info\source\repos\interpolation newton 1\interpolation newton 1\obj\Debug\net6.0\refint\interpolation newton 1.dll
+C:\Users\info\source\repos\interpolation newton 1\interpolation newton 1\obj\Debug\net6.0\interpolation newton 1.pdb
+C:\Users\info\source\repos\interpolation newton 1\interpolation newton 1\obj\Debug\net6.0\interpolation newton 1.genruntimeconfig.cache
+C:\Users\info\source\repos\interpolation newton 1\interpolation newton 1\obj\Debug\net6.0\ref\interpolation newton 1.dll
