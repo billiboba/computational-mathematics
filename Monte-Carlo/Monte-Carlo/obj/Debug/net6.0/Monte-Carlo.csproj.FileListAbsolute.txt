@@ -1,0 +1,15 @@
+C:\Users\roma\source\repos\computational-mathematics\Monte-Carlo\Monte-Carlo\obj\Debug\net6.0\Monte-Carlo.csproj.AssemblyReference.cache
+C:\Users\roma\source\repos\computational-mathematics\Monte-Carlo\Monte-Carlo\obj\Debug\net6.0\Monte-Carlo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\roma\source\repos\computational-mathematics\Monte-Carlo\Monte-Carlo\obj\Debug\net6.0\Monte-Carlo.AssemblyInfoInputs.cache
+C:\Users\roma\source\repos\computational-mathematics\Monte-Carlo\Monte-Carlo\obj\Debug\net6.0\Monte-Carlo.AssemblyInfo.cs
+C:\Users\roma\source\repos\computational-mathematics\Monte-Carlo\Monte-Carlo\obj\Debug\net6.0\Monte-Carlo.csproj.CoreCompileInputs.cache
+C:\Users\roma\source\repos\computational-mathematics\Monte-Carlo\Monte-Carlo\bin\Debug\net6.0\Monte-Carlo.exe
+C:\Users\roma\source\repos\computational-mathematics\Monte-Carlo\Monte-Carlo\bin\Debug\net6.0\Monte-Carlo.deps.json
+C:\Users\roma\source\repos\computational-mathematics\Monte-Carlo\Monte-Carlo\bin\Debug\net6.0\Monte-Carlo.runtimeconfig.json
+C:\Users\roma\source\repos\computational-mathematics\Monte-Carlo\Monte-Carlo\bin\Debug\net6.0\Monte-Carlo.dll
+C:\Users\roma\source\repos\computational-mathematics\Monte-Carlo\Monte-Carlo\bin\Debug\net6.0\Monte-Carlo.pdb
+C:\Users\roma\source\repos\computational-mathematics\Monte-Carlo\Monte-Carlo\obj\Debug\net6.0\Monte-Carlo.dll
+C:\Users\roma\source\repos\computational-mathematics\Monte-Carlo\Monte-Carlo\obj\Debug\net6.0\refint\Monte-Carlo.dll
+C:\Users\roma\source\repos\computational-mathematics\Monte-Carlo\Monte-Carlo\obj\Debug\net6.0\Monte-Carlo.pdb
+C:\Users\roma\source\repos\computational-mathematics\Monte-Carlo\Monte-Carlo\obj\Debug\net6.0\Monte-Carlo.genruntimeconfig.cache
+C:\Users\roma\source\repos\computational-mathematics\Monte-Carlo\Monte-Carlo\obj\Debug\net6.0\ref\Monte-Carlo.dll
