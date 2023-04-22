@@ -1,0 +1,15 @@
+C:\Users\roma\source\repos\computational-mathematics\Method_of_Euler\Method_of_Euler\obj\Debug\net6.0\Method_of_Euler.csproj.AssemblyReference.cache
+C:\Users\roma\source\repos\computational-mathematics\Method_of_Euler\Method_of_Euler\obj\Debug\net6.0\Method_of_Euler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\roma\source\repos\computational-mathematics\Method_of_Euler\Method_of_Euler\obj\Debug\net6.0\Method_of_Euler.AssemblyInfoInputs.cache
+C:\Users\roma\source\repos\computational-mathematics\Method_of_Euler\Method_of_Euler\obj\Debug\net6.0\Method_of_Euler.AssemblyInfo.cs
+C:\Users\roma\source\repos\computational-mathematics\Method_of_Euler\Method_of_Euler\obj\Debug\net6.0\Method_of_Euler.csproj.CoreCompileInputs.cache
+C:\Users\roma\source\repos\computational-mathematics\Method_of_Euler\Method_of_Euler\bin\Debug\net6.0\Method_of_Euler.exe
+C:\Users\roma\source\repos\computational-mathematics\Method_of_Euler\Method_of_Euler\bin\Debug\net6.0\Method_of_Euler.deps.json
+C:\Users\roma\source\repos\computational-mathematics\Method_of_Euler\Method_of_Euler\bin\Debug\net6.0\Method_of_Euler.runtimeconfig.json
+C:\Users\roma\source\repos\computational-mathematics\Method_of_Euler\Method_of_Euler\bin\Debug\net6.0\Method_of_Euler.dll
+C:\Users\roma\source\repos\computational-mathematics\Method_of_Euler\Method_of_Euler\bin\Debug\net6.0\Method_of_Euler.pdb
+C:\Users\roma\source\repos\computational-mathematics\Method_of_Euler\Method_of_Euler\obj\Debug\net6.0\Method_of_Euler.dll
+C:\Users\roma\source\repos\computational-mathematics\Method_of_Euler\Method_of_Euler\obj\Debug\net6.0\refint\Method_of_Euler.dll
+C:\Users\roma\source\repos\computational-mathematics\Method_of_Euler\Method_of_Euler\obj\Debug\net6.0\Method_of_Euler.pdb
+C:\Users\roma\source\repos\computational-mathematics\Method_of_Euler\Method_of_Euler\obj\Debug\net6.0\Method_of_Euler.genruntimeconfig.cache
+C:\Users\roma\source\repos\computational-mathematics\Method_of_Euler\Method_of_Euler\obj\Debug\net6.0\ref\Method_of_Euler.dll

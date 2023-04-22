@@ -1,7 +1,13 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\interpolation newton 1",
+    "\\interpolation newton 1\\interpolation newton 1",
+    "\\Monte-Carlo",
+    "\\Monte-Carlo\\Monte-Carlo",
+    "\\numerical integraton",
+    "\\numerical integraton\\numerical integraton"
   ],
-  "SelectedNode": "\\Method_of_Newton.sln",
+  "SelectedNode": "\\Monte-Carlo\\Monte-Carlo\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
