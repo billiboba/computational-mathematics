@@ -22,6 +22,10 @@ class Program
 
     static void Main()
     {
+        double x0 = 0; //Начальное значение x
+        double y = 1; //Начальное значение y
+        double x = 1.5; //Точка вычисления приближённого значения
+        double h = 0.5; //Шаг
         Method_of_Euler(x0 ,y,x,h);
     }
 }
