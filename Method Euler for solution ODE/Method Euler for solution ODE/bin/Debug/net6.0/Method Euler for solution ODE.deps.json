@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Method Euler for solution ODE/1.0.0": {
+        "runtime": {
+          "Method Euler for solution ODE.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Method Euler for solution ODE/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

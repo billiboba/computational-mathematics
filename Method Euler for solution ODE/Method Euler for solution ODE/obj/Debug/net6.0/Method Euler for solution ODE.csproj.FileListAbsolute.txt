@@ -1,0 +1,15 @@
+C:\Users\roma\source\repos\Method Euler for solution ODE\Method Euler for solution ODE\obj\Debug\net6.0\Method Euler for solution ODE.csproj.AssemblyReference.cache
+C:\Users\roma\source\repos\Method Euler for solution ODE\Method Euler for solution ODE\obj\Debug\net6.0\Method Euler for solution ODE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\roma\source\repos\Method Euler for solution ODE\Method Euler for solution ODE\obj\Debug\net6.0\Method Euler for solution ODE.AssemblyInfoInputs.cache
+C:\Users\roma\source\repos\Method Euler for solution ODE\Method Euler for solution ODE\obj\Debug\net6.0\Method Euler for solution ODE.AssemblyInfo.cs
+C:\Users\roma\source\repos\Method Euler for solution ODE\Method Euler for solution ODE\obj\Debug\net6.0\Method Euler for solution ODE.csproj.CoreCompileInputs.cache
+C:\Users\roma\source\repos\Method Euler for solution ODE\Method Euler for solution ODE\bin\Debug\net6.0\Method Euler for solution ODE.exe
+C:\Users\roma\source\repos\Method Euler for solution ODE\Method Euler for solution ODE\bin\Debug\net6.0\Method Euler for solution ODE.deps.json
+C:\Users\roma\source\repos\Method Euler for solution ODE\Method Euler for solution ODE\bin\Debug\net6.0\Method Euler for solution ODE.runtimeconfig.json
+C:\Users\roma\source\repos\Method Euler for solution ODE\Method Euler for solution ODE\bin\Debug\net6.0\Method Euler for solution ODE.dll
+C:\Users\roma\source\repos\Method Euler for solution ODE\Method Euler for solution ODE\bin\Debug\net6.0\Method Euler for solution ODE.pdb
+C:\Users\roma\source\repos\Method Euler for solution ODE\Method Euler for solution ODE\obj\Debug\net6.0\Method Euler for solution ODE.dll
+C:\Users\roma\source\repos\Method Euler for solution ODE\Method Euler for solution ODE\obj\Debug\net6.0\refint\Method Euler for solution ODE.dll
+C:\Users\roma\source\repos\Method Euler for solution ODE\Method Euler for solution ODE\obj\Debug\net6.0\Method Euler for solution ODE.pdb
+C:\Users\roma\source\repos\Method Euler for solution ODE\Method Euler for solution ODE\obj\Debug\net6.0\Method Euler for solution ODE.genruntimeconfig.cache
+C:\Users\roma\source\repos\Method Euler for solution ODE\Method Euler for solution ODE\obj\Debug\net6.0\ref\Method Euler for solution ODE.dll
