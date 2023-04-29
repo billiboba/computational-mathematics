@@ -10,7 +10,7 @@ class Program
     static public void Main()
     {
         double x0 = 0, y0, xn, h, yn = 0, slope;
-        int n;
+        double n;
         x0 = Double.Parse(Console.ReadLine());
         y0 = Double.Parse(Console.ReadLine());
         xn = Double.Parse(Console.ReadLine());
@@ -21,10 +21,10 @@ class Program
         {
             slope = Equtation(x0, y0);
             yn = y0 + h * slope;
-            Console.WriteLine(x0 + " " + y0 + " " + slope + " " + yn);
+            Console.WriteLine(Math.Round(x0,2) + " " + Math.Round(y0,2) + " " + Math.Round(slope,2) + " " + Math.Round(yn,2);
             y0 = yn;
             x0 = x0 + h;
         }
-        Console.WriteLine("y at x = " + xn + " is " + yn);
+        Console.WriteLine("y at x = " +Math.Round(xn,2) + " is " + Math.Round(yn,2);
     }
 }
