@@ -11,10 +11,10 @@ class Program
     {
         double x0 = 0, y0, xn, h, yn = 0, slope;
         int n;
-        x0 = Int32.Parse(Console.ReadLine());
-        y0 = Int32.Parse(Console.ReadLine());
-        xn = Int32.Parse(Console.ReadLine());
-        n = Int32.Parse(Console.ReadLine());
+        x0 = Double.Parse(Console.ReadLine());
+        y0 = Double.Parse(Console.ReadLine());
+        xn = Double.Parse(Console.ReadLine());
+        n = Double.Parse(Console.ReadLine());
         h = (xn - x0) / n;
 
         for (int i = 0; i < n; i++)
