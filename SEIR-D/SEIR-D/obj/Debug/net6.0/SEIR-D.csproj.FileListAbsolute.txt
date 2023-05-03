@@ -1,0 +1,15 @@
+C:\Users\roma\source\repos\SEIR-D\SEIR-D\bin\Debug\net6.0\SEIR-D.exe
+C:\Users\roma\source\repos\SEIR-D\SEIR-D\bin\Debug\net6.0\SEIR-D.deps.json
+C:\Users\roma\source\repos\SEIR-D\SEIR-D\bin\Debug\net6.0\SEIR-D.runtimeconfig.json
+C:\Users\roma\source\repos\SEIR-D\SEIR-D\bin\Debug\net6.0\SEIR-D.dll
+C:\Users\roma\source\repos\SEIR-D\SEIR-D\bin\Debug\net6.0\SEIR-D.pdb
+C:\Users\roma\source\repos\SEIR-D\SEIR-D\obj\Debug\net6.0\SEIR-D.csproj.AssemblyReference.cache
+C:\Users\roma\source\repos\SEIR-D\SEIR-D\obj\Debug\net6.0\SEIR-D.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\roma\source\repos\SEIR-D\SEIR-D\obj\Debug\net6.0\SEIR-D.AssemblyInfoInputs.cache
+C:\Users\roma\source\repos\SEIR-D\SEIR-D\obj\Debug\net6.0\SEIR-D.AssemblyInfo.cs
+C:\Users\roma\source\repos\SEIR-D\SEIR-D\obj\Debug\net6.0\SEIR-D.csproj.CoreCompileInputs.cache
+C:\Users\roma\source\repos\SEIR-D\SEIR-D\obj\Debug\net6.0\SEIR-D.dll
+C:\Users\roma\source\repos\SEIR-D\SEIR-D\obj\Debug\net6.0\refint\SEIR-D.dll
+C:\Users\roma\source\repos\SEIR-D\SEIR-D\obj\Debug\net6.0\SEIR-D.pdb
+C:\Users\roma\source\repos\SEIR-D\SEIR-D\obj\Debug\net6.0\SEIR-D.genruntimeconfig.cache
+C:\Users\roma\source\repos\SEIR-D\SEIR-D\obj\Debug\net6.0\ref\SEIR-D.dll
